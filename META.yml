@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                IO-Interactive
-version:             0.0.3_01
+version:             0.0.4
 abstract:            Utilities for interactive I/O
 license:             perl
 author:              
